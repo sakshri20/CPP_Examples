@@ -1,0 +1,82 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXFileReference section */
+		538FFB791F4E6D2A0061C4AC /* FunctionOverloading.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FunctionOverloading.cpp; sourceTree = "<group>"; };
+		538FFB7A1F4E6D2A0061C4AC /* FunctionOverloading.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = FunctionOverloading.hpp; sourceTree = "<group>"; };
+		538FFB7B1F4E6D410061C4AC /* OperatorOverloading.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OperatorOverloading.cpp; sourceTree = "<group>"; };
+		538FFB7C1F4E6D410061C4AC /* OperatorOverloading.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = OperatorOverloading.hpp; sourceTree = "<group>"; };
+		538FFB7D1F4E6D510061C4AC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		538FFB7E1F4E6D510061C4AC /* main.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = main.hpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		538FFB721F4E6CF70061C4AC = {
+			isa = PBXGroup;
+			children = (
+				538FFB7D1F4E6D510061C4AC /* main.cpp */,
+				538FFB7E1F4E6D510061C4AC /* main.hpp */,
+				538FFB7B1F4E6D410061C4AC /* OperatorOverloading.cpp */,
+				538FFB7C1F4E6D410061C4AC /* OperatorOverloading.hpp */,
+				538FFB791F4E6D2A0061C4AC /* FunctionOverloading.cpp */,
+				538FFB7A1F4E6D2A0061C4AC /* FunctionOverloading.hpp */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		538FFB731F4E6CF70061C4AC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0900;
+			};
+			buildConfigurationList = 538FFB761F4E6CF70061C4AC /* Build configuration list for PBXProject "FunctionOperatorOverloading" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 538FFB721F4E6CF70061C4AC;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		538FFB771F4E6CF70061C4AC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		538FFB781F4E6CF70061C4AC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		538FFB761F4E6CF70061C4AC /* Build configuration list for PBXProject "FunctionOperatorOverloading" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				538FFB771F4E6CF70061C4AC /* Debug */,
+				538FFB781F4E6CF70061C4AC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 538FFB731F4E6CF70061C4AC /* Project object */;
+}
